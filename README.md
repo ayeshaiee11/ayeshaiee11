@@ -57,55 +57,19 @@ I'm a developer interested in building practical, technology-driven solutions ac
 
 <!-- ================= SKILLS ================= -->
 
-## `tech.stack()`
 
-### Languages & Web
+## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nextjs,nodejs,express,mongodb,postgres,prisma,git,github,vscode&theme=dark" alt="Tech stack" />
 </p>
 
-### Frontend & Mobile
-
-<p>
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PWA-111111?style=for-the-badge&logo=pwa&logoColor=FF69B4" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,reactnative&theme=dark" alt="OpenCV and React Native" />
 </p>
 
-### Backend & Databases
+**Also working with:** YOLOv8, MediaPipe, LLMs, Voiceflow, REST APIs, JWT, Google Maps, Open-Meteo, Google Identity Services, PWA, and CLI systems.
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logoColor=FF69B4" />
-</p>
-
-### AI / ML & Computer Vision
-
-<p>
-  <img src="https://img.shields.io/badge/LLM_Integration-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logoColor=FF69B4" />
-  <img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
-  <img src="https://img.shields.io/badge/MediaPipe-111111?style=for-the-badge&logo=google&logoColor=4285F4" />
-  <img src="https://img.shields.io/badge/Voiceflow-111111?style=for-the-badge&logoColor=FF69B4" />
-</p>
-
-### APIs & Authentication
-
-<p>
-  <img src="https://img.shields.io/badge/Open--Meteo-111111?style=for-the-badge&logoColor=FF69B4" />
-  <img src="https://img.shields.io/badge/Google_Maps_API-111111?style=for-the-badge&logo=googlemaps&logoColor=4285F4" />
-  <img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Google_Identity_Services-111111?style=for-the-badge&logo=google&logoColor=4285F4" />
-</p>
 
 ### Developer Tools & Systems
 
