@@ -60,14 +60,11 @@ I'm a developer interested in building practical, technology-driven solutions ac
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nextjs,nodejs,express,mongodb,postgres,prisma,git,github,vscode&theme=dark" alt="Tech stack" />
-</p>
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,reactnative&theme=dark" alt="OpenCV and React Native" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nextjs,reactnative,nodejs,express,mongodb,postgres,prisma,opencv,git&theme=dark" alt="Tech Stack" />
 </p>
-
 **Also working with:** YOLOv8, MediaPipe, LLMs, Voiceflow, REST APIs, JWT, Google Maps, Open-Meteo, Google Identity Services, PWA, and CLI systems.
 
 
