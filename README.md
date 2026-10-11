@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:30102F,100:FF69B4&height=220&section=header&text=Ayesha&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:30102F,100:FF69B4&height=220&section=header&text=Ayesha&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
 
 <a href="https://github.com/ayeshaiee11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+projects.;Exploring+AI%2FML+and+computer+vision.;Developing+for+web+and+mobile.;Learning%2C+building%2C+and+improving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer.;Exploring+AI%2FML+and+computer+vision.;Developing+for+web+and+mobile." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@
 ```python
 class Ayesha:
     def __init__(self):
-        self.role = "Software Developer"
+        self.role = "Full Stack Developer"
         self.interests = [
             "Web Development",
             "Mobile Development",
@@ -46,7 +46,7 @@ class Ayesha:
 me = Ayesha()
 ```
 
-I'm a developer interested in building practical, technology-driven solutions across web, mobile, and AI/ML. I enjoy experimenting with new technologies, solving problems, and turning ideas into projects that do something meaningful.
+I'm a full stack developer interested in building practical, technology-driven solutions across web, mobile, and AI/ML. I enjoy experimenting with new technologies, solving problems, and turning ideas into projects that do something meaningful.
 
 - Developing web and mobile applications
 - Exploring AI/ML, LLM integration, and computer vision
@@ -57,16 +57,11 @@ I'm a developer interested in building practical, technology-driven solutions ac
 
 <!-- ================= SKILLS ================= -->
 
-
-
-
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nextjs,reactnative,nodejs,mongodb,prisma,opencv,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git&theme=dark" alt="Tech Stack" />
 </p>
-**Also working with:** YOLOv8, MediaPipe, LLMs, Voiceflow, REST APIs, JWT, Google Maps, Open-Meteo, Google Identity Services, PWA, and CLI systems.
-
 
 ### Developer Tools & Systems
 
@@ -118,20 +113,11 @@ A collection of projects, experiments, and things I'm building.
 
 ## `terminal.open()`
 
-```bash
-$ whoami
-ayesha
-
-$ echo $FOCUS
-Software Development | AI/ML | Computer Vision
-
-$ git status
-Learning new things.
-Building new projects.
-Improving with every commit.
-
-$ _
-```
+<div align="center">
+  <a href="https://github.com/ayeshaiee11">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1200&color=FF69B4&background=0D0D0DFF&center=false&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=%24+whoami;ayesha;%24+echo+%24FOCUS;Full+Stack+%7C+AI%2FML+%7C+Computer+Vision;%24+_" alt="Terminal" />
+  </a>
+</div>
 
 ---
 
