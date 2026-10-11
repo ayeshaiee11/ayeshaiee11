@@ -60,7 +60,9 @@ I'm a full stack developer interested in building practical, technology-driven s
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,nodejs,mongodb,git&theme=dark" alt="Tech Stack" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 ### Developer Tools & Systems
